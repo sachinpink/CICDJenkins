@@ -1,0 +1,591 @@
+13:03:30.980 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:30.986 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:30.987 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:30.987 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:30.989 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:30.995 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+13:03:30.996 [main] TRACE - [Graph] ================ SORTING
+13:03:31.000 [main] TRACE - [Graph] =============== DONE SORTING
+13:03:31.000 [main] TRACE - [Graph] ====== SORTED NODES
+13:03:31.000 [main] TRACE - [Graph] ====== END SORTED NODES
+13:03:31.000 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+13:03:31.001 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.002 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+13:03:31.002 [main] TRACE - [Graph] ================ SORTING
+13:03:31.002 [main] TRACE - [Graph] =============== DONE SORTING
+13:03:31.002 [main] TRACE - [Graph] ====== SORTED NODES
+13:03:31.002 [main] TRACE - [Graph] ====== END SORTED NODES
+13:03:31.002 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.003 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.003 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.004 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.004 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.007 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.007 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.008 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.008 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.012 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.012 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.012 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.012 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.017 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13:03:31.017 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@23fb172e] -546701313
+13:03:31.017 [main] TRACE - [Graph] ================ SORTING
+13:03:31.017 [main] TRACE - [Graph] =============== DONE SORTING
+13:03:31.017 [main] TRACE - [Graph] ====== SORTED NODES
+13:03:31.017 [main] TRACE - [Graph] ====== END SORTED NODES
+13:03:31.018 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.019 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.019 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.019 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:03:31.019 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:03:31.029 [main] INFO  - [TestNG] Running:
+  C:\Users\Sachin Zagade\AppData\Local\Temp\testng-eclipse--1931140213\testng-customsuite.xml
+
+13:03:31.055 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+13:03:35.765 [TestNG-PoolService-1] INFO  - WebDriver initialized successfully for browser: edge
+13:03:38.387 [TestNG-PoolService-1] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+13:03:38.716 [TestNG-PoolService-1] INFO  - Clicked on 'My Account' link.
+13:03:39.268 [TestNG-PoolService-1] INFO  - Navigated to Login Page.
+13:03:40.470 [TestNG-PoolService-1] INFO  - Entered login credentials and clicked 'Login'.
+13:03:41.825 [TestNG-PoolService-2] INFO  - WebDriver initialized successfully for browser: edge
+13:03:44.479 [TestNG-PoolService-2] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+13:03:45.640 [TestNG-PoolService-2] INFO  - Navigated to Registration page.
+13:03:46.684 [TestNG-PoolService-2] INFO  - Registration details entered.
+13:03:47.893 [TestNG-PoolService-2] INFO  - Agreed to Privacy Policy and submitted registration.
+13:03:48.043 [TestNG-PoolService-2] INFO  - Confirmation message validated.
+13:04:04.292 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+13:04:04.297 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+13:04:04.302 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart6.xml.rels
+13:04:04.302 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+13:04:04.302 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart11.xml.rels
+13:04:04.302 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+13:04:04.318 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+13:04:04.318 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+13:04:04.318 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+13:04:04.318 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+13:04:04.318 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+13:04:04.335 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:04:04.337 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:04:04.337 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+13:04:04.337 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+13:04:04.350 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+13:04:04.350 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+13:04:04.350 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+13:04:04.358 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+13:04:04.358 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+13:04:04.366 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:04:04.981 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:04:04.997 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:04:04.997 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:04:04.997 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:04:04.997 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:04:05.009 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:04:05.044 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:04:05.051 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:04:05.066 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:04:05.071 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:04:05.071 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:04:05.076 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:04:05.081 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:04:05.081 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+13:04:05.258 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:04:05.258 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+13:04:05.490 [main] TRACE - Resolving type for handle ctstylesheet4257type
+13:04:05.504 [main] TRACE - Resolving type for handle ctcolors6579type
+13:04:05.514 [main] TRACE - Resolving type for handle ctfonts6623type
+13:04:05.521 [main] TRACE - Resolving type for handle ctfont14d8type
+13:04:05.539 [main] TRACE - Resolving type for handle ctfills2c6ftype
+13:04:05.539 [main] TRACE - Resolving type for handle ctfill550ctype
+13:04:05.553 [main] TRACE - Resolving type for handle ctborders0d66type
+13:04:05.553 [main] TRACE - Resolving type for handle ctborderf935type
+13:04:05.571 [main] TRACE - Resolving type for handle ctcellxfs1322type
+13:04:05.577 [main] TRACE - Resolving type for handle ctxf97f7type
+13:04:05.590 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+13:04:05.590 [main] TRACE - Resolving type for handle ctdxfsb26atype
+13:04:05.601 [main] TRACE - Resolving type for handle cttablestyles872ftype
+13:04:05.606 [main] TRACE - Resolving type for handle sstf81fdoctype
+13:04:05.626 [main] TRACE - Resolving type for handle ctsst44f3type
+13:04:05.652 [main] TRACE - Resolving type for handle ctrsta472type
+13:04:05.732 [main] TRACE - Resolving type for handle themefd26doctype
+13:04:05.751 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.758 [main] TRACE - Resolving type for handle ctdrawing2748type
+13:04:05.798 [main] TRACE - Resolving type for handle chartspace36e0doctype
+13:04:05.816 [main] TRACE - Resolving type for handle ctchartspacef9b4type
+13:04:05.882 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:04:05.882 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:04:05.882 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:04:05.884 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.899 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:04:05.899 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.907 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.916 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+13:04:05.916 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.917 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.924 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.928 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:04:05.930 [main] TRACE - Resolving type for handle workbookec17doctype
+13:04:05.934 [main] TRACE - Resolving type for handle ctworkbook83c3type
+13:04:05.947 [main] TRACE - Resolving type for handle ctsheets49fdtype
+13:04:05.962 [main] TRACE - Resolving type for handle ctsheet4dbetype
+13:04:05.966 [main] TRACE - Resolving type for handle strelationshipid1e94type
+13:04:05.970 [main] TRACE - Resolving type for handle worksheetf539doctype
+13:04:05.975 [main] TRACE - Resolving type for handle ctworksheet530dtype
+13:04:05.986 [main] TRACE - Resolving type for handle ctcols627ctype
+13:04:05.991 [main] TRACE - Resolving type for handle ctcola95ftype
+13:04:06.009 [main] TRACE - Resolving type for handle ctsheetdata8408type
+13:04:06.012 [main] TRACE - Resolving type for handle ctrowdd39type
+13:04:06.018 [main] TRACE - Resolving type for handle ctcell842btype
+13:04:06.027 [main] TRACE - Resolving type for handle stcellrefe4e0type
+13:04:06.072 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+13:04:06.076 [main] TRACE - Resolving type for handle ctdefinedname9413type
+13:04:06.081 [main] TRACE - Resolving type for handle stxstringf179type
+13:04:06.089 [main] TRACE - Resolving type for handle stsheetstate158btype
+13:04:06.107 [main] TRACE - Resolving type for handle stcelltypebf95type
+13:04:06.116 [main] TRACE - Resolving type for handle ctdrawing44fdtype
+13:04:06.121 [main] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+13:04:06.126 [main] TRACE - Resolving type for handle ctmarkeree8etype
+13:04:06.128 [main] TRACE - Resolving type for handle strowidf4cftype
+13:04:06.145 [main] TRACE - Resolving type for handle ctmergecells1242type
+13:04:06.148 [main] TRACE - Resolving type for handle ctmergecelle8d9type
+13:04:06.150 [main] TRACE - Resolving type for handle stref90a2type
+13:04:06.178 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+13:04:06.180 [main] TRACE - Resolving type for handle stfontid9d63type
+13:04:06.181 [main] TRACE - Resolving type for handle stfillida097type
+13:04:06.183 [main] TRACE - Resolving type for handle stborderid1a80type
+13:04:06.186 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+13:04:06.190 [main] TRACE - Resolving type for handle ctcellalignmentb580type
+13:04:06.194 [main] TRACE - Resolving type for handle stverticalalignmentd35ctype
+13:04:06.197 [main] TRACE - Resolving type for handle ctborderpre497type
+13:04:06.199 [main] TRACE - Resolving type for handle stborderstylec774type
+13:04:06.202 [main] TRACE - Resolving type for handle ctcolord2c2type
+13:04:06.213 [main] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+13:04:06.219 [main] TRACE - Resolving type for handle ctchartc108type
+13:04:06.224 [main] TRACE - Resolving type for handle cttitleb54etype
+13:04:06.255 [main] TRACE - Resolving type for handle cttx9678type
+13:04:06.257 [main] TRACE - Resolving type for handle cttextbodya3catype
+13:04:06.259 [main] TRACE - Resolving type for handle cttextparagraphcaf2type
+13:04:06.262 [main] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+13:04:06.272 [main] TRACE - Resolving type for handle ctplotarea106etype
+13:04:06.278 [main] TRACE - Resolving type for handle ctcatax7159type
+13:04:06.282 [main] TRACE - Resolving type for handle ctunsignedinte8ectype
+13:04:06.285 [main] TRACE - Resolving type for handle ctvalaxd06etype
+13:04:06.289 [main] TRACE - Resolving type for handle ctbarchart4151type
+13:04:06.294 [main] TRACE - Resolving type for handle ctbardir5f42type
+13:04:06.297 [main] TRACE - Resolving type for handle ctbarser960ftype
+13:04:06.301 [main] TRACE - Resolving type for handle ctaxdatasource1440type
+13:04:06.304 [main] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+13:04:06.307 [main] TRACE - Resolving type for handle ctstrref5d1atype
+13:04:06.310 [main] TRACE - Resolving type for handle ctstrdatad58btype
+13:04:06.313 [main] TRACE - Resolving type for handle ctnumref062ftype
+13:04:06.316 [main] TRACE - Resolving type for handle ctnumdata4f16type
+13:04:06.347 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+13:04:06.353 [main] TRACE - Resolving type for handle ctbookviewsb864type
+13:04:06.356 [main] TRACE - Resolving type for handle ctbookviewf677type
+13:04:06.362 [main] TRACE - Resolving type for handle propertiesee84doctype
+13:04:06.364 [main] TRACE - Resolving type for handle ctproperties3f10type
+13:04:06.373 [main] TRACE - Resolving type for handle properties288cdoctype
+13:04:06.375 [main] TRACE - Resolving type for handle ctproperties2c18type
+13:04:06.382 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+13:04:06.384 [main] TRACE - Resolving type for handle ctfontname2dc3type
+13:04:06.386 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+13:04:06.388 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+13:04:06.390 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+13:04:06.392 [main] TRACE - Resolving type for handle stfontschemef36dtype
+13:04:06.394 [main] TRACE - Resolving type for handle ctpatternfill7452type
+13:04:06.397 [main] TRACE - Resolving type for handle stpatterntype7939type
+13:04:06.400 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+13:04:06.403 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+13:04:06.405 [main] TRACE - Resolving type for handle ctsheetview0f43type
+13:04:06.411 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+13:04:06.414 [main] TRACE - Resolving type for handle ctpagemargins5455type
+13:04:06.424 [main] TRACE - Resolving type for handle ctstrval86cctype
+13:04:06.427 [main] TRACE - Resolving type for handle ctnumval2fe1type
+13:04:06.435 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+13:04:06.460 [main] TRACE - Resolving type for handle stunsignedinthex27datype
+13:04:06.490 [main] TRACE - Resolving type for handle ctsheetprotection22f7type
+13:04:06.524 [main] TRACE - Resolving type for handle ctpaneaab1type
+13:04:06.529 [main] TRACE - Resolving type for handle stpane2ac1type
+13:04:06.531 [main] TRACE - Resolving type for handle stpanestateae58type
+13:04:06.533 [main] TRACE - Resolving type for handle ctselectionca2btype
+13:04:06.573 [main] TRACE - Resolving type for handle ctworkbookprotection56bctype
+13:04:06.619 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+13:04:06.665 [main] DEBUG - Save content types part
+13:04:06.748 [main] DEBUG - Save package relationships
+13:04:06.752 [main] DEBUG - Save part 'docProps/app.xml'
+13:04:06.753 [main] DEBUG - Save part 'docProps/core.xml'
+13:04:06.756 [main] DEBUG - Save part 'xl/charts/chart1.xml'
+13:04:06.757 [main] DEBUG - Save part 'xl/charts/chart2.xml'
+13:04:06.758 [main] DEBUG - Save part 'xl/charts/chart3.xml'
+13:04:06.758 [main] DEBUG - Save part 'xl/charts/chart4.xml'
+13:04:06.760 [main] DEBUG - Save part 'xl/charts/chart5.xml'
+13:04:06.761 [main] DEBUG - Save part 'xl/charts/chart6.xml'
+13:04:06.763 [main] DEBUG - Save part 'xl/charts/chart7.xml'
+13:04:06.764 [main] DEBUG - Save part 'xl/charts/chart8.xml'
+13:04:06.765 [main] DEBUG - Save part 'xl/charts/chart9.xml'
+13:04:06.766 [main] DEBUG - Save part 'xl/charts/chart10.xml'
+13:04:06.767 [main] DEBUG - Save part 'xl/charts/chart11.xml'
+13:04:06.768 [main] DEBUG - Save part 'xl/charts/chart12.xml'
+13:04:06.769 [main] DEBUG - Save part 'xl/charts/chart13.xml'
+13:04:06.769 [main] DEBUG - Save part 'xl/drawings/drawing1.xml'
+13:04:06.771 [main] DEBUG - Save part 'xl/drawings/drawing2.xml'
+13:04:06.772 [main] DEBUG - Save part 'xl/drawings/drawing3.xml'
+13:04:06.772 [main] DEBUG - Save part 'xl/drawings/drawing4.xml'
+13:04:06.773 [main] DEBUG - Save part 'xl/drawings/drawing5.xml'
+13:04:06.774 [main] DEBUG - Save part 'xl/drawings/drawing6.xml'
+13:04:06.775 [main] DEBUG - Save part 'xl/drawings/drawing7.xml'
+13:04:06.776 [main] DEBUG - Save part 'xl/drawings/drawing8.xml'
+13:04:06.777 [main] DEBUG - Save part 'xl/drawings/drawing9.xml'
+13:04:06.778 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+13:04:06.778 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+13:04:06.778 [main] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+13:04:06.778 [main] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+13:04:06.779 [main] DEBUG - Save part 'xl/printerSettings/printerSettings5.bin'
+13:04:06.779 [main] DEBUG - Save part 'xl/printerSettings/printerSettings8.bin'
+13:04:06.779 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:04:06.779 [main] DEBUG - Save part 'xl/styles.xml'
+13:04:06.780 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:04:06.780 [main] DEBUG - Save part 'xl/workbook.xml'
+13:04:06.782 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:04:06.783 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:04:06.784 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:04:06.785 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:04:06.787 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:04:06.788 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+13:04:06.902 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@45eab322: 56 ms
+13:04:06.903 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@23fb172e] -546701313
+13:04:06.903 [main] TRACE - [Graph] ================ SORTING
+13:04:06.903 [main] TRACE - [Graph] =============== DONE SORTING
+13:04:06.903 [main] TRACE - [Graph] ====== SORTED NODES
+13:04:06.903 [main] TRACE - [Graph] ====== END SORTED NODES
+13:04:06.919 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d401cdc: 17 ms
+13:04:06.930 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@1b1252c8: 11 ms
+13:04:06.948 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a3cf878: 18 ms
+13:04:06.955 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1b409a79: 7 ms
+13:04:06.955 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5940b14e: 0 ms
+14:08:07.063 [main] DEBUG - suiteXmlPath: "C:\Users\SACHIN~1\AppData\Local\Temp\testng-eclipse--566705719\testng-customsuite.xml"
+14:08:07.404 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.407 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+14:08:07.408 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.408 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.409 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.409 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.409 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.409 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.410 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.415 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+14:08:07.416 [main] TRACE - [Graph] ================ SORTING
+14:08:07.420 [main] TRACE - [Graph] =============== DONE SORTING
+14:08:07.420 [main] TRACE - [Graph] ====== SORTED NODES
+14:08:07.420 [main] TRACE - [Graph] ====== END SORTED NODES
+14:08:07.420 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+14:08:07.421 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.422 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+14:08:07.422 [main] TRACE - [Graph] ================ SORTING
+14:08:07.422 [main] TRACE - [Graph] =============== DONE SORTING
+14:08:07.422 [main] TRACE - [Graph] ====== SORTED NODES
+14:08:07.422 [main] TRACE - [Graph] ====== END SORTED NODES
+14:08:07.422 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.423 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.423 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.423 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.423 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.425 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.425 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.425 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.425 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.427 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.427 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.428 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.428 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.430 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+14:08:07.430 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@2b0f373b] -427941876
+14:08:07.430 [main] TRACE - [Graph] ================ SORTING
+14:08:07.431 [main] TRACE - [Graph] =============== DONE SORTING
+14:08:07.431 [main] TRACE - [Graph] ====== SORTED NODES
+14:08:07.431 [main] TRACE - [Graph] ====== END SORTED NODES
+14:08:07.431 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.432 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.432 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.432 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:08:07.432 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:08:07.440 [main] INFO  - [TestNG] Running:
+  C:\Users\Sachin Zagade\AppData\Local\Temp\testng-eclipse--566705719\testng-customsuite.xml
+
+14:08:07.459 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+14:08:11.485 [TestNG-PoolService-2] INFO  - WebDriver initialized successfully for browser: edge
+14:08:15.137 [TestNG-PoolService-2] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+14:08:17.245 [TestNG-PoolService-1] INFO  - WebDriver initialized successfully for browser: edge
+14:08:19.034 [TestNG-PoolService-2] INFO  - Navigated to Registration page.
+14:08:19.662 [TestNG-PoolService-1] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+14:08:19.860 [TestNG-PoolService-1] INFO  - Clicked on 'My Account' link.
+14:08:20.368 [TestNG-PoolService-1] INFO  - Navigated to Login Page.
+14:08:21.174 [TestNG-PoolService-1] INFO  - Entered login credentials and clicked 'Login'.
+14:08:42.488 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+14:08:42.491 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+14:08:42.492 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart6.xml.rels
+14:08:42.493 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+14:08:42.494 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart11.xml.rels
+14:08:42.495 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+14:08:42.497 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+14:08:42.498 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+14:08:42.499 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+14:08:42.500 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+14:08:42.500 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+14:08:42.502 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:42.504 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:08:42.504 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+14:08:42.506 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:08:42.507 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+14:08:42.508 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+14:08:42.509 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+14:08:42.509 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+14:08:42.510 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+14:08:42.511 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:08:42.803 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:08:42.812 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:08:42.813 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:08:42.813 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:08:42.814 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:08:42.815 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:08:42.832 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:08:42.832 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:08:42.837 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:08:42.839 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:08:42.840 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:08:42.841 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:08:42.841 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:08:42.843 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:08:42.923 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:08:42.924 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+14:08:43.001 [main] TRACE - Resolving type for handle ctstylesheet4257type
+14:08:43.010 [main] TRACE - Resolving type for handle ctcolors6579type
+14:08:43.013 [main] TRACE - Resolving type for handle ctfonts6623type
+14:08:43.016 [main] TRACE - Resolving type for handle ctfont14d8type
+14:08:43.021 [main] TRACE - Resolving type for handle ctfills2c6ftype
+14:08:43.024 [main] TRACE - Resolving type for handle ctfill550ctype
+14:08:43.027 [main] TRACE - Resolving type for handle ctborders0d66type
+14:08:43.030 [main] TRACE - Resolving type for handle ctborderf935type
+14:08:43.035 [main] TRACE - Resolving type for handle ctcellxfs1322type
+14:08:43.039 [main] TRACE - Resolving type for handle ctxf97f7type
+14:08:43.043 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+14:08:43.046 [main] TRACE - Resolving type for handle ctdxfsb26atype
+14:08:43.050 [main] TRACE - Resolving type for handle cttablestyles872ftype
+14:08:43.054 [main] TRACE - Resolving type for handle sstf81fdoctype
+14:08:43.064 [main] TRACE - Resolving type for handle ctsst44f3type
+14:08:43.078 [main] TRACE - Resolving type for handle ctrsta472type
+14:08:43.110 [main] TRACE - Resolving type for handle themefd26doctype
+14:08:43.117 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.119 [main] TRACE - Resolving type for handle ctdrawing2748type
+14:08:43.143 [main] TRACE - Resolving type for handle chartspace36e0doctype
+14:08:43.151 [main] TRACE - Resolving type for handle ctchartspacef9b4type
+14:08:43.174 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+14:08:43.175 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+14:08:43.175 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+14:08:43.175 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.184 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+14:08:43.185 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.190 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.200 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+14:08:43.200 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.201 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.207 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.212 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:43.214 [main] TRACE - Resolving type for handle workbookec17doctype
+14:08:43.217 [main] TRACE - Resolving type for handle ctworkbook83c3type
+14:08:43.223 [main] TRACE - Resolving type for handle ctsheets49fdtype
+14:08:43.227 [main] TRACE - Resolving type for handle ctsheet4dbetype
+14:08:43.230 [main] TRACE - Resolving type for handle strelationshipid1e94type
+14:08:43.233 [main] TRACE - Resolving type for handle worksheetf539doctype
+14:08:43.239 [main] TRACE - Resolving type for handle ctworksheet530dtype
+14:08:43.250 [main] TRACE - Resolving type for handle ctcols627ctype
+14:08:43.256 [main] TRACE - Resolving type for handle ctcola95ftype
+14:08:43.275 [main] TRACE - Resolving type for handle ctsheetdata8408type
+14:08:43.279 [main] TRACE - Resolving type for handle ctrowdd39type
+14:08:43.287 [main] TRACE - Resolving type for handle ctcell842btype
+14:08:43.298 [main] TRACE - Resolving type for handle stcellrefe4e0type
+14:08:43.382 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+14:08:43.389 [main] TRACE - Resolving type for handle ctdefinedname9413type
+14:08:43.397 [main] TRACE - Resolving type for handle stxstringf179type
+14:08:43.410 [main] TRACE - Resolving type for handle stsheetstate158btype
+14:08:43.434 [main] TRACE - Resolving type for handle stcelltypebf95type
+14:08:43.444 [main] TRACE - Resolving type for handle ctdrawing44fdtype
+14:08:43.447 [main] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+14:08:43.451 [main] TRACE - Resolving type for handle ctmarkeree8etype
+14:08:43.453 [main] TRACE - Resolving type for handle strowidf4cftype
+14:08:43.468 [main] TRACE - Resolving type for handle ctmergecells1242type
+14:08:43.471 [main] TRACE - Resolving type for handle ctmergecelle8d9type
+14:08:43.472 [main] TRACE - Resolving type for handle stref90a2type
+14:08:43.509 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+14:08:43.513 [main] TRACE - Resolving type for handle stfontid9d63type
+14:08:43.515 [main] TRACE - Resolving type for handle stfillida097type
+14:08:43.517 [main] TRACE - Resolving type for handle stborderid1a80type
+14:08:43.519 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+14:08:43.528 [main] TRACE - Resolving type for handle ctcellalignmentb580type
+14:08:43.533 [main] TRACE - Resolving type for handle stverticalalignmentd35ctype
+14:08:43.537 [main] TRACE - Resolving type for handle ctborderpre497type
+14:08:43.540 [main] TRACE - Resolving type for handle stborderstylec774type
+14:08:43.544 [main] TRACE - Resolving type for handle ctcolord2c2type
+14:08:43.561 [main] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+14:08:43.574 [main] TRACE - Resolving type for handle ctchartc108type
+14:08:43.584 [main] TRACE - Resolving type for handle cttitleb54etype
+14:08:43.616 [main] TRACE - Resolving type for handle cttx9678type
+14:08:43.619 [main] TRACE - Resolving type for handle cttextbodya3catype
+14:08:43.621 [main] TRACE - Resolving type for handle cttextparagraphcaf2type
+14:08:43.624 [main] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+14:08:43.633 [main] TRACE - Resolving type for handle ctplotarea106etype
+14:08:43.639 [main] TRACE - Resolving type for handle ctcatax7159type
+14:08:43.643 [main] TRACE - Resolving type for handle ctunsignedinte8ectype
+14:08:43.644 [main] TRACE - Resolving type for handle ctvalaxd06etype
+14:08:43.648 [main] TRACE - Resolving type for handle ctbarchart4151type
+14:08:43.660 [main] TRACE - Resolving type for handle ctbardir5f42type
+14:08:43.665 [main] TRACE - Resolving type for handle ctbarser960ftype
+14:08:43.669 [main] TRACE - Resolving type for handle ctaxdatasource1440type
+14:08:43.671 [main] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+14:08:43.675 [main] TRACE - Resolving type for handle ctstrref5d1atype
+14:08:43.677 [main] TRACE - Resolving type for handle ctstrdatad58btype
+14:08:43.680 [main] TRACE - Resolving type for handle ctnumref062ftype
+14:08:43.683 [main] TRACE - Resolving type for handle ctnumdata4f16type
+14:08:43.699 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+14:08:43.704 [main] TRACE - Resolving type for handle ctbookviewsb864type
+14:08:43.706 [main] TRACE - Resolving type for handle ctbookviewf677type
+14:08:43.711 [main] TRACE - Resolving type for handle propertiesee84doctype
+14:08:43.713 [main] TRACE - Resolving type for handle ctproperties3f10type
+14:08:43.722 [main] TRACE - Resolving type for handle properties288cdoctype
+14:08:43.724 [main] TRACE - Resolving type for handle ctproperties2c18type
+14:08:43.729 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+14:08:43.732 [main] TRACE - Resolving type for handle ctfontname2dc3type
+14:08:43.733 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+14:08:43.735 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+14:08:43.736 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+14:08:43.737 [main] TRACE - Resolving type for handle stfontschemef36dtype
+14:08:43.739 [main] TRACE - Resolving type for handle ctpatternfill7452type
+14:08:43.742 [main] TRACE - Resolving type for handle stpatterntype7939type
+14:08:43.745 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+14:08:43.747 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+14:08:43.749 [main] TRACE - Resolving type for handle ctsheetview0f43type
+14:08:43.753 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+14:08:43.755 [main] TRACE - Resolving type for handle ctpagemargins5455type
+14:08:43.759 [main] TRACE - Resolving type for handle ctstrval86cctype
+14:08:43.762 [main] TRACE - Resolving type for handle ctnumval2fe1type
+14:08:43.769 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+14:08:43.799 [main] TRACE - Resolving type for handle stunsignedinthex27datype
+14:08:43.827 [main] TRACE - Resolving type for handle ctsheetprotection22f7type
+14:08:43.856 [main] TRACE - Resolving type for handle ctpaneaab1type
+14:08:43.863 [main] TRACE - Resolving type for handle stpane2ac1type
+14:08:43.864 [main] TRACE - Resolving type for handle stpanestateae58type
+14:08:43.867 [main] TRACE - Resolving type for handle ctselectionca2btype
+14:08:43.908 [main] TRACE - Resolving type for handle ctworkbookprotection56bctype
+14:08:43.965 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+14:08:44.008 [main] DEBUG - Save content types part
+14:08:44.128 [main] DEBUG - Save package relationships
+14:08:44.135 [main] DEBUG - Save part 'docProps/app.xml'
+14:08:44.136 [main] DEBUG - Save part 'docProps/core.xml'
+14:08:44.140 [main] DEBUG - Save part 'xl/charts/chart1.xml'
+14:08:44.141 [main] DEBUG - Save part 'xl/charts/chart2.xml'
+14:08:44.142 [main] DEBUG - Save part 'xl/charts/chart3.xml'
+14:08:44.142 [main] DEBUG - Save part 'xl/charts/chart4.xml'
+14:08:44.143 [main] DEBUG - Save part 'xl/charts/chart5.xml'
+14:08:44.145 [main] DEBUG - Save part 'xl/charts/chart6.xml'
+14:08:44.149 [main] DEBUG - Save part 'xl/charts/chart7.xml'
+14:08:44.150 [main] DEBUG - Save part 'xl/charts/chart8.xml'
+14:08:44.151 [main] DEBUG - Save part 'xl/charts/chart9.xml'
+14:08:44.152 [main] DEBUG - Save part 'xl/charts/chart10.xml'
+14:08:44.152 [main] DEBUG - Save part 'xl/charts/chart11.xml'
+14:08:44.154 [main] DEBUG - Save part 'xl/charts/chart12.xml'
+14:08:44.155 [main] DEBUG - Save part 'xl/charts/chart13.xml'
+14:08:44.156 [main] DEBUG - Save part 'xl/drawings/drawing1.xml'
+14:08:44.158 [main] DEBUG - Save part 'xl/drawings/drawing2.xml'
+14:08:44.159 [main] DEBUG - Save part 'xl/drawings/drawing3.xml'
+14:08:44.159 [main] DEBUG - Save part 'xl/drawings/drawing4.xml'
+14:08:44.159 [main] DEBUG - Save part 'xl/drawings/drawing5.xml'
+14:08:44.161 [main] DEBUG - Save part 'xl/drawings/drawing6.xml'
+14:08:44.162 [main] DEBUG - Save part 'xl/drawings/drawing7.xml'
+14:08:44.165 [main] DEBUG - Save part 'xl/drawings/drawing8.xml'
+14:08:44.166 [main] DEBUG - Save part 'xl/drawings/drawing9.xml'
+14:08:44.167 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:08:44.167 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+14:08:44.167 [main] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+14:08:44.167 [main] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+14:08:44.167 [main] DEBUG - Save part 'xl/printerSettings/printerSettings5.bin'
+14:08:44.168 [main] DEBUG - Save part 'xl/printerSettings/printerSettings8.bin'
+14:08:44.168 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:08:44.168 [main] DEBUG - Save part 'xl/styles.xml'
+14:08:44.169 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:08:44.170 [main] DEBUG - Save part 'xl/workbook.xml'
+14:08:44.172 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:08:44.174 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:08:44.176 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:08:44.178 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:08:44.180 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:08:44.181 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+14:08:44.326 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@32e5af53: 80 ms
+14:08:44.327 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@2b0f373b] -427941876
+14:08:44.328 [main] TRACE - [Graph] ================ SORTING
+14:08:44.328 [main] TRACE - [Graph] =============== DONE SORTING
+14:08:44.328 [main] TRACE - [Graph] ====== SORTED NODES
+14:08:44.328 [main] TRACE - [Graph] ====== END SORTED NODES
+14:08:44.347 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@173511ff: 21 ms
+14:08:44.359 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@48dff674: 11 ms
+14:08:44.372 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c995c5d: 13 ms
+14:08:44.381 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@53cb0bcb: 8 ms
+14:08:44.381 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51fe7f15: 0 ms
+14:09:03.055 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+14:09:03.057 [main] TRACE - [Graph] ================ SORTING
+14:09:03.060 [main] TRACE - [Graph] =============== DONE SORTING
+14:09:03.060 [main] TRACE - [Graph] ====== SORTED NODES
+14:09:03.060 [main] TRACE - [Graph] ====== END SORTED NODES
+14:09:03.061 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+14:09:03.061 [main] TRACE - [Graph] ================ SORTING
+14:09:03.061 [main] TRACE - [Graph] =============== DONE SORTING
+14:09:03.061 [main] TRACE - [Graph] ====== SORTED NODES
+14:09:03.062 [main] TRACE - [Graph] ====== END SORTED NODES
+14:09:03.068 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@2c1156a7] -411025544
+14:09:03.068 [main] TRACE - [Graph] ================ SORTING
+14:09:03.068 [main] TRACE - [Graph] =============== DONE SORTING
+14:09:03.068 [main] TRACE - [Graph] ====== SORTED NODES
+14:09:03.068 [main] TRACE - [Graph] ====== END SORTED NODES
+14:09:09.215 [TestNG-PoolService-2] INFO  - WebDriver initialized successfully for browser: Chrome
+14:09:10.972 [TestNG-PoolService-1] INFO  - WebDriver initialized successfully for browser: Chrome
+14:09:11.740 [TestNG-PoolService-1] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+14:09:12.124 [TestNG-PoolService-2] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+14:09:22.104 [TestNG-PoolService-1] INFO  - Clicked on 'My Account' link.
+14:09:32.573 [TestNG-PoolService-2] INFO  - Navigated to Registration page.
+14:09:42.226 [TestNG-PoolService-1] INFO  - Navigated to Login Page.
+14:10:42.506 [TestNG-PoolService-1] INFO  - Entered login credentials and clicked 'Login'.
+14:11:03.836 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+14:11:03.839 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+14:11:03.840 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart6.xml.rels
+14:11:03.841 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+14:11:03.842 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart11.xml.rels
+14:11:03.843 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+14:11:03.844 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+14:11:03.845 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+14:11:03.845 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+14:11:03.846 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+14:11:03.847 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+14:11:03.847 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:03.849 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:11:03.849 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+14:11:03.851 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:11:03.855 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+14:11:03.856 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+14:11:03.858 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+14:11:03.859 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+14:11:03.860 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+14:11:03.862 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /_rels/.rels
+14:11:04.108 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:11:04.113 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:11:04.113 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:11:04.114 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:11:04.114 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:11:04.116 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:11:04.129 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:11:04.130 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:11:04.135 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:11:04.137 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:11:04.138 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:11:04.139 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:11:04.140 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:11:04.141 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:11:04.198 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
