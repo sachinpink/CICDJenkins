@@ -15,3 +15,7 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+*.log
+allure-results/eddf6b38-727a-471e-bcfe-2446147e866c-attachment
+*.json
+/allure-results
