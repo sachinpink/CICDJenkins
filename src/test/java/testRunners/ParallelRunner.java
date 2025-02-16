@@ -24,8 +24,8 @@ import io.cucumber.testng.CucumberOptions;
 		//tags= "@sanity"  // this will execute only sanity
 		//tags= "@regression"  // this will execute only sanity
 		//tags="@sanity and @regression" // Executes scenarios with both @sanity and @regression
-		tags="@sanity or @regression"   //Executess sceanrio either sanity or regression
-		//tags="@sanity and not @regression"  // Executes scenarios with @sanity but not @regression
+		//tags="@sanity or @regression"   //Executess sceanrio either sanity or regression
+		tags="@sanity and not @regression"  // Executes scenarios with @sanity but not @regression
 )
 public class ParallelRunner extends AbstractTestNGCucumberTests {
 
